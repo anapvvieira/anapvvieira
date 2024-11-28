@@ -1,13 +1,23 @@
 ## Olá, seja bem-vindo! Eu sou Ana 👋
 
 🧠 De programadora back-end, tester, consultora de projetos à Cientista de Dados!
-Apaixonada por tecnologia desde 2009 e sempre me reinvantando dentro da área. Estou transformando meu github em portfólio com projetos focados em dados.
+Apaixonada por tecnologia desde 2009 e sempre me reinvantando dentro da área. 
 
-
-🌱 Estou sempre disposta aprender e trocar conhecimento, me chama, vamos colaborar!
+🔭 Busco aprofundar meus conhecimentos, vamos colaborar!
+<br>
+🌱 Estou transformando meu github em portfólio com projetos focados em dados.
 </br>
-
-###
+</br>
+### Minhas certificações 
+-----------
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/f79a0336-74ba-4d75-891f-589d0ca2bb1e/public_url">
+        <img src="https://images.credly.com/size/680x680/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png" alt="Google Business Intelligence" width="200">
+      </a>
+    </td>
+</table>
 
 <!--
 - 🔭 I’m currently working on ...
