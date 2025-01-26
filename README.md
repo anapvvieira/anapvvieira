@@ -1,11 +1,11 @@
 ## Olá, seja muito bem-vindo! Eu sou Ana 👋
 
-🧠 De programadora back-end, tester, consultora de projetos à Cientista de Dados!
-Apaixonada por tecnologia desde 2009 e sempre me reinvantando. 
+🧠 Apaixonada por tecnologia e atuando na área desde 2009.
+De programadora back-end, tester, consultora de projetos à Cientista de Dados!
 
-🔭 Busco aprofundar meus conhecimentos e aprimorar minhas habilidades analíticas.
+🌱 Estudando novas tecnologias e aprimorando habilidades sempre.
 <br>
-🌱 Estou transformando meu github em portfólio com projetos focados em dados.
+⚡ Transformando meu github em um portfólio de Dados.
 </br>
 </br>
 ### Certificações: 
